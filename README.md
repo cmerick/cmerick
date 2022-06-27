@@ -5,9 +5,6 @@
 - 🔭 I’m currently looking for my fisrt job as front-end developer.
 - 🌱 Learning to make Fullstack applications with React, Nodejs and MongoDB
 - 👯 I’m looking to collaborate on projects involving React and Nodejs.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
 
 
 ## Olá 👋 Eu sou Erick
@@ -15,10 +12,9 @@
 - 🔭 Atualmente estou buscando minha primeira oportunidade como programador front-end.
 - 🌱 Aprendendo a fazer aplicações completas com React, Nodejs e MongoDB 
 - 👯 Quero colaborar com projetos envolvendo React e Nodejs.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
 
+
+##
 <div align="center">
   <a href="https://github.com/cmerick">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cmerick&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
