@@ -2,15 +2,15 @@
 
 ## Hi there 👋 I'm Erick
 
-- 🔭 I’m currently looking for my fisrt job as front-end developer.
-- 🌱 Learning to make Fullstack applications with React, Nodejs and MongoDB
+- 🔭 I’m currently looking for my fisrt job as fullstack developer.
+- 🌱 Learning to make Fullstack applications with React, React Native Nodejs.
 - 👯 I’m looking to collaborate on projects involving React and Nodejs.
 
 
 ## Olá 👋 Eu sou Erick
 
-- 🔭 Atualmente estou buscando minha primeira oportunidade como programador front-end.
-- 🌱 Aprendendo a fazer aplicações completas com React, Nodejs e MongoDB 
+- 🔭 Atualmente estou buscando minha primeira oportunidade como programador fullstack.
+- 🌱 Aprendendo a fazer aplicações completas com React, React Native e Nodejs. 
 - 👯 Quero colaborar com projetos envolvendo React e Nodejs.
 
 
@@ -25,10 +25,10 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div>
   
  ## Social
