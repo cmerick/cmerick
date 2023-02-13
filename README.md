@@ -2,16 +2,16 @@
 
 ## Hi there 👋 I'm Erick
 
-- 🔭 I’m currently looking for my fisrt job as fullstack developer.
+- 🔭 I’m currently working as a Front-End developer.
 - 🌱 Learning to make Fullstack applications with React, React Native Nodejs.
-- 👯 I’m looking to collaborate on projects involving React and Nodejs.
+- 👯 I’m looking to collaborate or work as freelancer on projects involving React and Nodejs.
 
 
 ## Olá 👋 Eu sou Erick
 
-- 🔭 Atualmente estou buscando minha primeira oportunidade como programador fullstack.
+- 🔭 Atualmente trabalhando como Desenvolvedor Front-End.
 - 🌱 Aprendendo a fazer aplicações completas com React, React Native e Nodejs. 
-- 👯 Quero colaborar com projetos envolvendo React e Nodejs.
+- 👯 Quero colaborar ou trabalhar com projetos envolvendo React e Nodejs.
 
 
 ##
