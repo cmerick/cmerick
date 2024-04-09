@@ -2,15 +2,15 @@
 
 ## Hi there 👋 I'm Erick
 
-- 🔭 I’m currently working as a Front-End developer.
-- 🌱 Learning to make Fullstack applications with React, React Native Nodejs.
+- 🔭 I’m currently working as a Fullstack developer.
+- 🌱 Making Fullstack applications with React, React Native, Nodejs, Java, SpringBoot.
 - 👯 I’m looking to collaborate or work as freelancer on projects involving React and Nodejs.
 
 
 ## Olá 👋 Eu sou Erick
 
-- 🔭 Atualmente trabalhando como Desenvolvedor Front-End.
-- 🌱 Aprendendo a fazer aplicações completas com React, React Native e Nodejs. 
+- 🔭 Atualmente trabalhando como Desenvolvedor Fullstack.
+- 🌱 Fazendo aplicações completas com React, React Native, Nodejs, Java, SpringBoot. 
 - 👯 Quero colaborar ou trabalhar com projetos envolvendo React e Nodejs.
 
 
@@ -24,6 +24,7 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
