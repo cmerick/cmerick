@@ -5,6 +5,7 @@
 - 🔭 I’m currently working as a Fullstack developer.
 - 🌱 Making Fullstack applications with React, React Native, Nodejs, Java, SpringBoot.
 - 👯 I’m looking to collaborate or work as freelancer on projects involving React and Nodejs.
+- 🤝 if you are looking to do business with me contact me via linkedin or gmail.
 
 
 ## Olá 👋 Eu sou Erick
@@ -12,6 +13,7 @@
 - 🔭 Atualmente trabalhando como Desenvolvedor Fullstack.
 - 🌱 Fazendo aplicações completas com React, React Native, Nodejs, Java, SpringBoot. 
 - 👯 Quero colaborar ou trabalhar com projetos envolvendo React e Nodejs.
+- 🤝 Se você deseja fazer negócios comigo, entre em contato comigo via LinkedIn ou Gmail.
 
 
 ##
